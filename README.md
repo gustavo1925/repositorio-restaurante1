@@ -2,7 +2,8 @@ Sistema Restaurante
 
 Integrantes
 
-- Gustavo Mateus
+- Gustavo Mateus Lauria da Silva
+  
 
 Como rodar o sistema
 
